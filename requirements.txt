@@ -1,0 +1,10 @@
+scikit-learn==1.8.0
+pandas==3.0.2
+numpy==2.4.4
+
+dvc==3.67.1
+prefect==3.6.28
+
+fastapi==0.136.1
+uvicorn==0.46.0
+pydantic==2.13.3
